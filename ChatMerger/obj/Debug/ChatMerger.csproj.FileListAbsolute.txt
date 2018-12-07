@@ -1,0 +1,11 @@
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\bin\Debug\ChatMerger.exe.config
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\bin\Debug\ChatMerger.exe
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\bin\Debug\ChatMerger.pdb
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\bin\Debug\HtmlAgilityPack.dll
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\bin\Debug\HtmlAgilityPack.xml
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\obj\Debug\ChatMerger.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\obj\Debug\ChatMerger.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\obj\Debug\ChatMerger.csproj.CopyComplete
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\obj\Debug\ChatMerger.exe
+C:\Users\artur\source\repos\ChatMerger\ChatMerger\obj\Debug\ChatMerger.pdb
